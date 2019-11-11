@@ -11,7 +11,6 @@ class ChattyStudent < Student
     super
     binding.pry
     10.times {puts "Pick me!\n"}
-
   end
 
 end
